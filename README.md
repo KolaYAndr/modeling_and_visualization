@@ -1,2 +1,3 @@
-# modeling_and_visualization
-This repository contains my modeling and visualization labs on python
+This repository contains my modeling and visualization labs on python. Theese labs were made as part of educational process of subject "Modeling and visualization" while second year of studying in ITMO University
+
+В этом репозитории хранятся мои лыбы по визуализации и моделированию. Они были выполнены во время прохождения курса Визуализация и моделирование на втором курсе учёбы в Университете ИТМО
